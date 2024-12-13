@@ -1,4 +1,4 @@
-package pluginkit
+package extension
 
 import (
 	"bytes"
